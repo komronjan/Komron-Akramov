@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500;600;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.t1{
+    color: rgba(20, 126, 69, 1);
+}
+.main2{
+    gap: 1%;
+    margin-top: 5vh;
+    justify-content: center;
+    display: flex;
+}
+.nav{
+    margin-left: 25vh;
+}
+.lol{
+    margin-top: -10px;
+    font-weight: 700;
+    font-family: Rubik;
+  display: flex;
+}
+.t1{
+ color: rgba(20, 126, 69, 1);
+}
+ul{
+    font-weight: 400;
+    font-family: Rubik;
+    gap: 15%;
+    display: flex;
+    list-style: none;
+}
+ul :nth-child(1){
+    color: rgba(20, 126, 69, 1);
+}
+select{
+    border-radius: 2px;
+    color: white;
+    background-color: rgba(20, 126, 69, 1);
+
+}
+.lang{
+    color: white;
+    /* background-color: rgba(20, 126, 69, 1); */
+    margin-left: 32vh;
+}
+.main3{
+    border: 0;
+    display: flex;
+}
+.img img{
+    width: 100%;
+    height: 35vh;
+}
+i{
+    width: 50px;
+    color: black;
+}
+.kok img{
+    width: 100%;
+    height: 40vh;
+}
+.kok{
+    margin-top: 25vh;
+    display: flex;
+    margin-left: 35vh;
+}
+.fa-arrow-left{
+    margin-top: 10vh;
+    width: 10%;
+    height: 5vh;
+    border: 0px solid black;
+}
+.fa-arrow-right{
+    margin-top: 10vh;
+    width: 10%;
+    height: 5vh;
+    border: 0px solid black;
+}
+.text{
+    margin-left: 20vh;
+    margin-top: 22vh;
+    width: 50%;
+    font-weight: 500;
+    font-family: Rubik;
+}
+.text h2{
+    margin-top: 2vh;
+}
+.text p{
+    font-family: Rubik;
+    font-weight: 400;
+    margin-top: 2vh;
+    color: rgba(79, 86, 101, 1);
+
+}
+.checkbox {
+    margin-top: 5vh;
+}
+.checkbox input{
+    background-color: rgba(20, 126, 69, 1);
+}
+.first{
+    margin-top: 2vh;
+}
+.but button{
+    margin-top: 2vh;
+    border: 0;
+    font-family: Rubik;
+    border-radius: 10px;
+    color: white;
+    width: 34%;
+    height: 7vh ;
+    cursor: pointer;
+    background-color: rgba(20, 126, 69, 1);
+}
+.main4{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.textes{
+    width: 513px;
+    height: 180px;
+    font-family: Rubik;
+    font-weight: 500;
+}
+.textes p{
+    color: rgba(79, 86, 101, 1);
+    line-height: 35px;
+}
+.but2 button{
+    margin-top: 2vh;
+    border: 0;
+    font-family: Rubik;
+    font-weight: 600;
+    border-radius: 10px;
+    color: white;
+    width: 60%;
+    height: 7vh ;
+    cursor: pointer;
+    background-color: rgba(20, 126, 69, 1);
+}
+.main51 h1{
+    margin-top: 15vh;
+  font-family: Rubik;
+  margin-left: 30vh;
+}
+.main5{
+    justify-content: space-evenly;
+    display: flex;
+}
+.jojo{
+    display: flex;
+}
+.jojo h4{
+    width:183px ;
+}
+.joj :nth-child(1){
+    font-weight: bold;
+width: 183px;
+font-family: Rubik;
+}
+.joj :nth-child(2){
+    font-family: Rubik;
+  width: 229px;
+  color: rgba(79, 86, 101, 1);
+}
+.joj button{
+    border: 2px solid rgba(20, 126, 69, 1);
+    font-family: Rubik;
+    font-weight: 600;
+    border-radius: 10px;
+    color: white;
+    width: 100%;
+    height: 7vh ;
+    cursor: pointer;
+    background-color: white;
+    color: rgba(20, 126, 69, 1);
+}
+.joj{
+ line-height: 30px;
+}
+.joja :nth-child(1){
+    font-weight: bold;
+width: 300px;
+font-family: Rubik;
+}
+
+.joja :nth-child(2){
+    color: rgba(79, 86, 101, 1);
+width: 300px;
+font-family: Rubik;
+}
+
+.joja{
+    line-height: 30px;
+   }
+.joja button{
+    border: 2px solid rgba(20, 126, 69, 1);
+    font-family: Rubik;
+    font-weight: 600;
+    border-radius: 10px;
+    color: white;
+    width: 80%;
+    height: 7vh ;
+    cursor: pointer;
+    background-color: white;
+    color: rgba(20, 126, 69, 1);
+}
+.main5{
+    margin-top: 10vh;
+}
+.text1{
+    line-height: 30px;
+    font-family: Rubik;
+    width:410px ;
+}
+.main6{
+    margin-top: 20vh;
+   display: flex;
+   justify-content: space-evenly    ;
+}
+.text1 p{
+    color: rgba(79, 86, 101, 1);
+}
+.ton button{
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgba(20, 126, 69, 1);
+    height: 7vh;
+    width: 200%;
+    font-family: Rubik;
+}
+.main7{
+    line-height: 30px;
+    margin-top: 20vh;
+    display: flex;
+    justify-content: space-around;
+    font-family: Rubik;
+}
+.text3{
+    color: rgba(79, 86, 101, 1) ;
+}
+.text3 :nth-child(1){
+    color: rgba(20, 126, 69, 1);
+}
+.ioi{
+    font-family: Rubik;
+    margin-left: 14vh;
+    color: rgba(175, 181, 192, 1)   ;
+    margin-top: 10vh;
+}
+@media( max-width:500px){
+    .text5{
+        font-size: 150%;
+    }
+    .lol{
+        margin-left: 80vh;
+    }
+    ul{
+        display: none;
+    }
+    .main3{
+        display: block;
+    }
+    .kok img {
+        margin-left: 35vh;
+         width: 100%;
+         /* height: ?vh; */
+    }
+    .but button{
+        width: 100%;
+    }
+    ul{
+        margin-left: 50vh;
+    }
+    .main4{
+        margin-left: 50vh;
+        /* margin: auto; */
+        display: block;
+
+    }
+    .pop{
+        margin-top: -10vh;
+    }
+    .textes{
+        width: 360px;
+    }
+    .textes h1{
+        /* margin-top: 50vh; */
+    }
+    .textes p{
+        margin-top: 54vh;
+    }
+    .text{
+        width: 100%;
+        margin-left: 50vh;
+    }
+    .img2{
+        margin-top: -16vh;
+        margin-left: -5vh;
+    }
+    .main51 h1{
+        margin-left: 50vh;
+        margin-top: 100vh;
+        width: 200%;
+    }
+    .main5{
+        margin-left: 50vh;
+        display: block;
+    }
+    .main6{
+        margin-left: 50vh;
+        display: block;
+    }
+    .jojo:nth-of-type(2){
+    }
+    .main7{
+        margin-left: 50vh;
+        display: block;
+    }
+    .user{
+        margin-left: 10vh;
+
+    }
+    .img{
+        margin-left: -20vh;
+    }
+    .kok i{
+        display: none;
+    }
+    label{
+        font-size: 150%;
+    }
+    .textes p{
+        margin-top: ;
+   font-size: 150%;
+    }
+.joj{
+    font-size:150% ;
+}
+.joj button{
+    width:80%;
+}
+.joja{
+    font-size: 150%;
+}
+.ton{
+    width: 80%;
+}
+}
+/*
+.main6{
+    height: 30vh;
+    background-color: rgba(175, 181, 192, 1);
+}
+.text1,.ton{
+ margin-top: 10vh;
+} */
